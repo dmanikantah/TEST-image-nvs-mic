@@ -1,9 +1,9 @@
 const images = {
     "Aclasta": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Aclasta.jpg",
-    "image2": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Adelphane.jpg",
-    "image3": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Afinitor.jpeg",
-    "image4": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Amturnide.jpg",
-    "image5": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Anafranil.jpg",
+    "Adelphane": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Adelphane.jpg",
+    "Afinitor": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Afinitor.jpeg",
+    "Amturnide": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Amturnide.jpg",
+    "Anafranil": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Anafranil.jpg",
 
     // Add more image names and paths as needed
 };
