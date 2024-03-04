@@ -1,5 +1,5 @@
 const images = {
-    "image1": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Aclasta.jpg",
+    "Aclasta": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Aclasta.jpg",
     "image2": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Adelphane.jpg",
     "image3": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Afinitor.jpeg",
     "image4": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Amturnide.jpg",
