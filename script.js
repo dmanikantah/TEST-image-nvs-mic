@@ -1,10 +1,10 @@
 const images = {
-    "image1": "",
-    "image2": "",
-    "image3": "",
-    "image4": "",
-    "image5": "",
-   "image6": "",
+    "image1": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Aclasta.jpg",
+    "image2": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Adelphane.jpg",
+    "image3": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Afinitor.jpeg",
+    "image4": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Amturnide.jpg",
+    "image5": "https://github.com/dmanikantah/TEST-image-nvs-mic/blob/main/Anafranil.jpg",
+
     // Add more image names and paths as needed
 };
 
